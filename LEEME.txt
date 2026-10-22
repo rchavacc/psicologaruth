@@ -1,0 +1,22 @@
+SITIO WEB MULTIPÁGINA — RUTH CHAVAC | PSICOLOGÍA Y BIENESTAR
+
+PÁGINAS
+- index.html: portada, servicios destacados y recursos visuales.
+- sobre-mi.html: perfil, formación, CV, infografía y espacio de video.
+- servicios.html: descripción de servicios.
+- agendar.html: formulario demostrativo de solicitud de cita.
+- ubicacion.html: ubicación y mapa.
+- contacto.html: datos de contacto.
+
+PARA ABRIR
+Extrae el ZIP y abre index.html en un navegador actualizado. Todos los estilos, scripts e ilustraciones locales están incluidos.
+
+ANTES DE PUBLICAR (IMPORTANTE)
+1. Revisa y confirma el número de WhatsApp, correo y dirección; los datos que ya aparecían en la web pueden ser de ejemplo.
+2. Completa edad (si deseas publicarla), universidad, fechas de estudio, cursos/certificaciones y experiencia real. No publiques credenciales que aún no poseas.
+3. Sustituye el CV PDF de plantilla por tu CV definitivo.
+4. Añade un video personal real y un video explicativo de servicios; el bloque actual indica dónde integrarlos.
+5. Agrega enlaces reales a tus perfiles sociales.
+6. Reemplaza el mapa/ubicación si no corresponde a tu dirección actual.
+7. El formulario de citas solo guarda una demostración en el navegador; NO envía solicitudes a la clínica y no confirma citas. Para recibir solicitudes reales debe conectarse a un servicio seguro. Evita recopilar información clínica sensible y publica una política de privacidad.
+8. La página no es un servicio de emergencia.
